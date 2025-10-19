@@ -23,10 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 土木工程学院副教授
+role: 副教授 硕士生导师
 
 # Organizations/Affiliations to display in Biography blox
-organizations: 硕士生导师
+organizations:
+  - name: 重庆交通大学土木工程学院
+    url: http://civil.cqjtu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
