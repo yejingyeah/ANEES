@@ -10,7 +10,7 @@ first_name: Alex
 last_name: Johnson
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
@@ -23,12 +23,10 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: 土木工程学院副教授
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+organizations: 硕士生导师
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -166,4 +164,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+程崇晟，副教授，硕士研究生导师，重庆巴渝青年学者。博士毕业于美国内布拉斯加大学林肯分校。主要研究方向为土木结构无损检测，专注于基于红外热成像、计算机视觉与人工智能的检测原理、分析与集成研究。于2020年获得美国内布拉斯加大学林肯分校博士学位，在2021年加入重庆交通大学山区桥梁及隧道工程国家重点实验室，并担任土木工程学院导师。目前主持国家自然科学基金项目2项，国家重点研发计划项目子课题1项，省部级项目5项，授权发明专利8项。发表SCI/EI论文25篇，担任《Automation in Construction》、《Construction and Building Materials》等国际期刊审稿人与编辑。指导研究生获科创、电子设计竞赛等校级、省部级奖项多项。
