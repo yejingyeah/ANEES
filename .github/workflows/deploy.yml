@@ -43,6 +43,17 @@ jobs:
             echo "Installing dependencies..."
             pnpm install || npm install  # 优先用 pnpm，失败则用 npm
           fi
+          - name: Verify TailwindCSS installation
+            run: |
+              # 检查本地 node_modules 中是否存在 tailwindcss
+              if [ -f "./node_modules/.bin/tailwindcss" ]; then
+                echo "TailwindCSS found at: $(which tailwindcss)"
+                ./node_modules/.bin/tailwindcss --version
+              else
+                echo "TailwindCSS not installed correctly!"
+                exit 1
+              fi
+         
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
