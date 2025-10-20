@@ -48,13 +48,13 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - 基于光学成像（红外光、可见光、激光）的结构病害诊断
-  - 基于计算机视觉与深度学习的结构病害量化与绘制
-  - 基于无人机搭载，多传感器融合的土木结构扫描与感测
+  - 1.基于光学成像（红外光、可见光、激光）的结构病害诊断
+  - 2.基于计算机视觉与深度学习的结构病害量化与绘制
+  - 3.基于无人机搭载，多传感器融合的土木结构扫描与感测
     
 education:
   - area: 工程建造与管理
-    institution: <p>University of Nebraska-Lincoln<br>美国 (2014-2020)</p>
+    institution: University of Nebraska-Lincoln,美国 (2014-2020)
     date_start: 2014-09-01
     date_end: 2020-06-30
     summary: |
@@ -63,7 +63,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: 土木结构工程
-    institution: University of Nebraska-Lincoln    美国 (2012-2014)
+    institution: University of Nebraska-Lincoln,美国 (2012-2014)
     date_start: 2012-09-01
     date_end: 2014-05-31
     summary: |
