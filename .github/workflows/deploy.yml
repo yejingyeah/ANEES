@@ -38,12 +38,13 @@ jobs:
       with:
         node-version: ${{ env.NODE_VERSION }}
         
-    - name: Install TailwindCSS CLI
+    - name: Build with Hugo
+      env:
+        HUGO_ENVIRONMENT: production
       run: |
-        npm install -g tailwindcss @tailwindcss/cli
-        echo "=== CLI installed ==="
-        npx tailwindcss --version
-        echo "=== CLI found ==="
+        echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
+        export PATH="$PATH:$(npm bin -g)"   # ← 加这一行
+        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
     - name: Setup pnpm
       if: hashFiles('package.json') != ''
