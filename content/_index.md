@@ -29,16 +29,36 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+- block: markdown
+  content:
+    title: '📚 ANEES LAB'
+    subtitle: ''
+    text: |
+      ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
+      
+      团队精神：人人为我，我为人人，精益求精，潇洒人间走一遭！
+      
+      团队理念：努力工作尽情生活、以人为本人的人文关怀、实事求是科研面前人人平等。
+      
+      团队文化：ANEES 每一位都是闪闪发光的金子！
+      
+      **2025 年招收计划：**
+      
+      **（一）计算机科学与技术、电子信息：**  
+      机器视觉、图像处理、深度学习与土木工程交叉融合  
+      
+      **（二）土木工程结构（桥梁）病害---智能检测：**  
+      隐蔽病害检测与量化方向 + 无人机自动化  
+      
+      **（三）土木工程（桥梁）建造过程---智能感知：**  
+      建造过程状态识别与测量方向 + 无人机实时化  
+      
+      **（四）土木工程结构（桥梁）状态---智能测绘：**  
+      结构服役状态识测与分析方向 + 无人机高效化  
+      
+      欢迎对计算机图像、病害检测、无人机巡检、智能建造等方面感兴趣的同学积极联系。鼓励有计算机编程基础或对此感兴趣的同学积极联系！  
+      联系方式：ccheng@cqjtu.edu.cn 😃
+    
     design:
       columns: '1'
   - block: collection
