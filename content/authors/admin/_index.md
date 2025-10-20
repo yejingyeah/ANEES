@@ -53,7 +53,7 @@ interests:
   - 3.基于无人机搭载，多传感器融合的土木结构扫描与感测
     
 education:
-  - area: 工程建造与管理
+  - area: 博士：工程建造与管理
     institution: University of Nebraska-Lincoln,美国 (2014-2020)
     date_start: 2014-09-01
     date_end: 2020-06-30
@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: 土木结构工程
+  - area: 硕士：土木结构工程
     institution: University of Nebraska-Lincoln,美国 (2012-2014)
     date_start: 2012-09-01
     date_end: 2014-05-31
@@ -70,7 +70,7 @@ education:
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: 水利水电工程
+  - area: 学士：水利水电工程
     institution: 四川大学 (2007-2011)
     date_start: 2007-09-01
     date_end: 2011-05-31
