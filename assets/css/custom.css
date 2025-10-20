@@ -1,3 +1,22 @@
 .max-w-4xl {
   max-width: 90% !important;
 }
+/* 1. 缩小 BIO 卡片上下内边距 */
+.section-biography .py-12,
+.section-biography .py-16 {
+  padding-top: 1rem !important;    /* 原来是 3rem */
+  padding-bottom: 1rem !important;
+}
+
+/* 2. 缩小标题上下外边距 */
+.section-biography .my-8,
+.section-biography .my-12 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* 3. 缩小正文段间距 */
+.section-biography .prose {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
