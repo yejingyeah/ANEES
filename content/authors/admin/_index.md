@@ -165,5 +165,4 @@ awards:
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
-# 个人简介
 <p style="text-indent:2em;">程崇晟，副教授，硕士研究生导师，重庆巴渝青年学者。博士毕业于美国内布拉斯加大学林肯分校。主要研究方向为土木结构无损检测，专注于基于红外热成像、计算机视觉与人工智能的检测原理、分析与集成研究。于2020年获得美国内布拉斯加大学林肯分校博士学位，在2021年加入重庆交通大学山区桥梁及隧道工程国家重点实验室，并担任土木工程学院导师。目前主持国家自然科学基金项目2项，国家重点研发计划项目子课题1项，省部级项目5项，授权发明专利8项。发表SCI/EI论文25篇，担任《Automation in Construction》、《Construction and Building Materials》等国际期刊审稿人与编辑。指导研究生获科创、电子设计竞赛等校级、省部级奖项多项。</p>
