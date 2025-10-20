@@ -49,7 +49,8 @@ jobs:
           echo "Installing Tailwind dependencies..."
           pnpm install || npm install
         fi
-
+    - name: Install TailwindCSS CLI
+      run: npm install -g tailwindcss @tailwindcss/cli
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
