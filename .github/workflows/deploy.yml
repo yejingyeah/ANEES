@@ -41,8 +41,9 @@ jobs:
     - name: Install TailwindCSS CLI
       run: |
         npm install -g tailwindcss @tailwindcss/cli
-        echo "TailwindCSS CLI version:"
+        echo "=== CLI installed ==="
         npx tailwindcss --version
+        echo "=== CLI found ==="
 
     - name: Setup pnpm
       if: hashFiles('package.json') != ''
