@@ -39,7 +39,10 @@ jobs:
         node-version: ${{ env.NODE_VERSION }}
         
     - name: Install TailwindCSS CLI
-      run: npm install -g tailwindcss @tailwindcss/cli
+      run: |
+        npm install -g tailwindcss @tailwindcss/cli
+        echo "TailwindCSS CLI version:"
+        npx tailwindcss --version
 
     - name: Setup pnpm
       if: hashFiles('package.json') != ''
