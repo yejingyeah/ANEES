@@ -55,7 +55,7 @@ interests:
 
 education:
   - area: 工程建造与管理
-    institution: University of Nebraska-Lincoln, 美国 (2014-2020)
+    institution: University of Nebraska-Lincoln<br>美国 (2014-2020)
     date_start: 2014-09-01
     date_end: 2020-06-30
     summary: |
@@ -64,7 +64,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: 土木结构工程
-    institution: University of Nebraska-Lincoln, 美国 (2012-2014)
+    institution: University of Nebraska-Lincoln<br>美国 (2012-2014)
     date_start: 2012-09-01
     date_end: 2014-05-31
     summary: |
