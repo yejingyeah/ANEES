@@ -85,8 +85,10 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
       run: |
+        # 强制 npx 找全局包
+        export PATH="$(npm bin -g):$PATH"
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        hugo --minify --baseURL "${{ steps.pages.outputs.base
 
     - name: Generate Pagefind search index (if applicable)
       run: |
