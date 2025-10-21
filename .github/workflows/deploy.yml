@@ -50,6 +50,19 @@ jobs:
           pnpm install || npm install
         fi
 
+    - name: Fix TailwindCSS CLI path for Hugo  # 新增这一步
+      run: |
+        TAILWIND_V4_PATH="./node_modules/@tailwindcss/cli/bin/tailwind"
+        TAILWIND_EXPECTED_PATH="./node_modules/.bin/tailwindcss"
+        if [ -f "$TAILWIND_V4_PATH" ]; then
+          ln -s "$TAILWIND_V4_PATH" "$TAILWIND_EXPECTED_PATH"
+          ls -la "$TAILWIND_EXPECTED_PATH"
+          "$TAILWIND_EXPECTED_PATH" --version
+        else
+          echo "TailwindCSS v4 CLI not found"
+          exit 1
+        fi
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
