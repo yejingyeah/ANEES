@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.125.4'
+  WC_HUGO_VERSION: '0.150.1'
   NODE_VERSION: '20'
 
 on:
@@ -55,6 +55,9 @@ jobs:
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
+        
+    - name: Clean Hugo module cache  # 新增清除缓存步骤
+      run: hugo mod clean
 
       # Cache dependencies (Go modules, node_modules) - stable, rarely changes
     - uses: actions/cache@v4
