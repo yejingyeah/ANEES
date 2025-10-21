@@ -85,7 +85,8 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
       run: |
-        # 强制 npx 找全局包
+        # 强制重装 CLI + 强制全局路径
+        npm install -g tailwindcss @tailwindcss/cli
         export PATH="$(npm bin -g):$PATH"
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
