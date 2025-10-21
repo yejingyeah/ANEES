@@ -1,4 +1,5 @@
-.max-w-4xl {
+/* 让 Bio 卡片整体更宽 */
+.prose.max-w-prose {
   max-width: 90% !important;
 }
 /* 1. 缩小 BIO 卡片上下内边距 */
