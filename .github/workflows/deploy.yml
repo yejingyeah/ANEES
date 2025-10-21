@@ -50,27 +50,11 @@ jobs:
           pnpm install || npm install
         fi
 
-    - name: Fix TailwindCSS CLI path for Hugo  # 新增这一步
-      run: |
-        TAILWIND_V4_PATH="./node_modules/@tailwindcss/cli/bin/tailwind"
-        TAILWIND_EXPECTED_PATH="./node_modules/.bin/tailwindcss"
-        if [ -f "$TAILWIND_V4_PATH" ]; then
-          ln -s "$TAILWIND_V4_PATH" "$TAILWIND_EXPECTED_PATH"
-          ls -la "$TAILWIND_EXPECTED_PATH"
-          "$TAILWIND_EXPECTED_PATH" --version
-        else
-          echo "TailwindCSS v4 CLI not found"
-          exit 1
-        fi
-
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
-        
-    - name: Clean Hugo module cache  # 新增清除缓存步骤
-      run: hugo mod clean
 
       # Cache dependencies (Go modules, node_modules) - stable, rarely changes
     - uses: actions/cache@v4
@@ -101,9 +85,6 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
       run: |
-        # 强制重装 CLI + 强制全局路径
-        npm install -g tailwindcss @tailwindcss/cli
-        export PATH="$(npm bin -g):$PATH"
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
