@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Papers
-    url: /content/home/papers-text-only/
+    url: /
     weight: 11
   - name: Talks
     url: /#talks
