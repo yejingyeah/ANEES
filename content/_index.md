@@ -63,7 +63,7 @@ sections:
         columns: '1'
 
     - block: markdown
-    content:
+      content:
       title: 'Recent Publications'
       subtitle: ''
       text: |
