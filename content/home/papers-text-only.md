@@ -1,17 +1,17 @@
 ---
-title: Papers
+title: Features
 ---
 
 sections:
   - block: markdown
-    id: papers-text-only
-    title: Papers
+    id: features-text-only
+    title: Features
     content:
       text: |
-        ## 2024
-        [我的 2024 论文](https://your-paper-url.com)  
+        ## 功能 1
+        [功能 1 标题](https://your-url.com)  
         一句话描述。
 
-        ## 2023
-        [我的 2023 论文](https://your-paper-url.com)  
+        ## 功能 2
+        [功能 2 标题](https://your-url.com)  
         一句话描述。
