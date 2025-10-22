@@ -1,17 +1,17 @@
 ---
-title: Features
+title: My Research
 ---
 
 sections:
   - block: markdown
     id: features-text-only
-    title: Features
+    title: My Research
     content:
-      text: |
-        ## 功能 1
-        [功能 1 标题](https://your-url.com)  
-        一句话描述。
+      items:
+        - name: "我的 2024 论文"
+          url: "https://your-paper-url.com"
+          description: "一句话描述。"
 
-        ## 功能 2
-        [功能 2 标题](https://your-url.com)  
-        一句话描述。
+        - name: "我的 2023 论文"
+          url: "https://your-paper-url.com"
+          description: "一句话描述。"
