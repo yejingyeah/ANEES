@@ -67,9 +67,9 @@ sections:
       title: 'Recent Papers'
       subtitle: ''
       text: |
-        **2025
-        [Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.](https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub)
+        **2025**
     
+        [Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.](https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub)
         Cheng, C, J. Yu, Z. Xiang, S. Wang, H. Cai, J. Zhou, H.(2025). Automation in Construction, 175：106227. （SCI 一区 TOP期刊）
     design:
       columns: '1'
