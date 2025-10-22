@@ -61,23 +61,15 @@ sections:
       
       design:
         columns: '1'
-
-    - block: markdown
-      content:
-        title: 'Recent Publications'
-        subtitle: ''
-        text: |
-          ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
-        
-          团队精神：人人为我，我为人人，精益求精，潇洒人间走一遭！
-        
-          团队理念：努力工作尽情生活、以人为本人的人文关怀、实事求是科研面前人人平等。
-        
-          团队文化：ANEES 每一位都是闪闪发光的金子！
-      
-      design:
-        columns: '1'  
     
+  - block: markdown
+    content:
+      title: '📚 ANEES LAB'
+      subtitle: ''
+      text: |
+        ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
+    design:
+      columns: '1'
     
   #- block: collection
     #id: papers
