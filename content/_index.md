@@ -64,10 +64,12 @@ sections:
     
   - block: markdown
     content:
-      title: '📚 ANEES LAB'
+      title: 'Recent Papers'
       subtitle: ''
       text: |
-        ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
+        ##2025
+        [Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.](https://kns.cnki.net/kcms2/article/abstract?v=krTYG2tdvzqqljljdCDtsg2GlAAIbNWgOlOT4vZa63m3r0RanJiwBUBDvA4DAzFtmMLbpb0kNmUtY4X2ofhvyKPBzQkm-mcvbYo98_VP3NUT_8WjmU-L1RbJv-W23WKd_6srU8KMCTb2GtkJI1Px-PAPJCznWcTFGHj1dgyMQRswSx4oUjFn3ZAKAa_88yUDDorQzw0Va2A=&uniplatform=NZKPT)
+        Cheng, C, J. Yu, Z. Xiang, S. Wang, H. Cai, J. Zhou, H.(2025). Automation in Construction, 175：106227. （SCI 一区 TOP期刊）
     design:
       columns: '1'
     
