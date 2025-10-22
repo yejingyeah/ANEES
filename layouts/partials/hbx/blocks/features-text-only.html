@@ -1,0 +1,12 @@
+{{/* Hugo Blox: Features (Text-Only) */}}
+<div class="max-w-prose mx-auto">
+  <h3 class="text-xl font-bold">{{ .title | emojify }}</h3>
+  <ul class="list-disc pl-5">
+    {{ range .content.items }}
+    <li>
+      <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
+      <br>{{ .description }}
+    </li>
+    {{ end }}
+  </ul>
+</div>
