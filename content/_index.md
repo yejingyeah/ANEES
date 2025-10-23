@@ -90,6 +90,53 @@ sections:
     
         **<a href="https://pubmed.ncbi.nlm.nih.gov/40271921/" class="no-underline" style="color:#436CC8;font-weight:bold">Early Detection and Analysis of Cavity Defects in Concrete Columns Based on Infrared Thermography and Finite Element Analysis.</a>**  
         <span style="font-weight:normal;color:black">Yang, F., Zeng, X., Xia, Q., Yang, L., Cai, H., & <strong>Cheng, C *</strong>. (2025).</span> <span style="color:#932C2C">Materials, 18(7), 168. </span> <span style="color:#7030A0">（SCI 三区）</span>
+
+
+       **2024**
+    
+        **<a href="https://www.sciencedirect.com/science/article/pii/S2214509524001463?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Cooling-Excited Infrared Thermography for Enhancing the Detection of Concrete Filled Steel Tube Interfacial Debonding at Concrete Hydration.</a>**  
+        <span style="font-weight:normal;color:black">Cai H, <strong>Cheng C *</strong>, Na R, et al. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e02995. </span> <span style="color:#7030A0">（SCI 二区）</span>
+
+        **<a href="https://www.sciencedirect.com/science/article/pii/S2214509524010799?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Experimental Study on Infrared Detection of Debonding in Concrete-filled Steel Tubular Structure under Acceleratory Period of Hydration Heat Action.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Cheng, X., Zhang, H., Cai, H., Zhou, J., Na, R., & Wu, B. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e03928. </span> <span style="color:#7030A0">（SCI 二区）</span>
+
+        **<a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003483755-286/investigation-effect-surface-condition-variation-infrared-imaging-concrete-delamination-cheng-chen-cai-wang-wang-cheng" class="no-underline" style="color:#436CC8;font-weight:bold"> Investigation of the effect of surface condition variation on infrared imaging of concrete delamination.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Chen, D., Cai, H., Wang, S., Wang, R., & Cheng, X. (2024).</span> <span style="color:#932C2C">In Bridge Maintenance, Safety, Management, Digitalization and Sustainability (pp. 2409-2416). CRC Press. </span> <span style="color:#7030A0">（EI）
+</span>
+
+        **<a href="https://www.mdpi.com/2075-5309/15/1/10" class="no-underline" style="color:#436CC8;font-weight:bold">Revealing the Impact of Depth and Surface Property Variations on Infrared Detection of Delamination in Concrete Structures Under Natural Environmental Conditions.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Chen, D., Shao, S., Na, R., Cai, H., Zhou, H., & Wu, B. (2024).</span> <span style="color:#932C2C">Buildings, 15(1), 10.</span> <span style="color:#7030A0">（SCI 三区）</span>
+
+        **<a href="https://www.sciencedirect.com/science/article/pii/S0926580524001195?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Computer vision-based real-time continuous monitoring of the pose for large-span bridge cable lifting structures.</a>**  
+        <span style="font-weight:normal;color:black">Tang, Y., Huang, B., Wang, S., Zhou, J., Xiang, Z., <strong>Sheng, C</strong>., ... & Ruan, L. (2024). </span> <span style="color:#932C2C">Automation in Construction, 162, 105383. </span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
+
+
+   **2023-2019**
+         
+        **<a href="https://kns.cnki.net/kcms2/article/abstract?v=X-VFCYicIZsjPfiHHxyQChpXvnJFKPcDBNaQ-ZM-GUMaxfLrNPD2Rq4ZBxHbIGHOQzin35yz3oI34B_PYjA-EJB538gzgOPvJ7nGsLNDjDzmY0fjCc8jRY15f5uImw-0gOcopur4MelBpzi_FVR5ZKTt7CLyQ37_8enJgOsAd-Q=&uniplatform=NZKPT" class="no-underline" style="color:#436CC8;font-weight:bold">基于线形识别的索力测量方法影响因素研究[J].</a>**  
+        <span style="font-weight:normal;color:black">王邵锐, 王犇, <strong>程崇晟 *</strong>等.</span> <span style="color:#932C2C"> 中国公路学报, 2023, 36(2): 154-165.</span> <span style="color:#7030A0">(EI)</span>
+
+        **<a href="https://www.mdpi.com/2412-3811/7/12/163" class="no-underline" style="color:#436CC8;font-weight:bold">Performance Evaluation of Uncooled UAV Infrared Camera in Detecting Concrete Delamination[J].</a>**  
+        <span style="font-weight:normal;color:black">Aljagoub D, Na R, <strong>Cheng C</strong>, et al.</span> <span style="color:#932C2C"> Infrastructures, 2022, 7(12): 163.</span> <span style="color:#7030A0">（ESCI）</span>
+
+        **<a href="https://www.sciencedirect.com/science/article/pii/S0950061820334930" class="no-underline" style="color:#436CC8;font-weight:bold">Semi real-time detection of subsurface consolidation defects during concrete curing stage.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, and Zhigang Shen.</span> <span style="color:#932C2C"> Construction and Building Materials, 270 (2021): 121489.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
+
+        **<a href="https://www.sciencedirect.com/science/article/pii/S0963869520303224" class="no-underline" style="color:#436CC8;font-weight:bold">Automatic delamination segmentation for bridge deck based on encoder-decoder deep learning through UAV-based thermography.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, Zhexiong Shang, and Zhigang Shen.</span> <span style="color:#932C2C"> NDT & E International 116 (2020): 102341.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
+
+        **<a href="https://www.sciencedirect.com/science/article/pii/S0950061819334270" class="no-underline" style="color:#436CC8;font-weight:bold">The application of gray-scale level-set method in segmentation of concrete deck delamination using infrared images.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, and Zhigang Shen.</span> <span style="color:#932C2C">Construction and Building Materials 240 (2020): 117974.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
+
+        **<a href="https://www.sciencedirect.com/science/article/abs/pii/S1350449519300969" class="no-underline" style="color:#436CC8;font-weight:bold">Bridge deck delamination segmentation based on aerial thermography through regularized grayscale morphological reconstruction and gradient statistics.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, Zhexiong Shang, and Zhigang Shen.</span> <span style="color:#932C2C"> Infrared Physics & Technology 98 (2019): 240-249.</span> <span style="color:#7030A0">（SCI 二区）</span>
+
+        **<a href="https://www.sciencedirect.com/science/article/abs/pii/S1350449518307394" class="no-underline" style="color:#436CC8;font-weight:bold">Thermographic Laplacian-pyramid filtering to enhance delamination detection in concrete structure.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, Ri Na, and Zhigang Shen.</span> <span style="color:#932C2C">Infrared Physics & Technology 97 (2019): 162-176.</span> <span style="color:#7030A0">（SCI 二区）</span>
+
+        **<a href="https://www.semanticscholar.org/paper/CNN-Based-Deep-Architecture-for-Reinforced-Concrete-Cheng-Shang/3bd8d91de5cc8108e7e7bc1465e4b414159ffe91" class="no-underline" style="color:#436CC8;font-weight:bold">CNN-based deep architecture for reinforced concrete delamination segmentation through thermography.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, Zhexiong Shang, and Zhigang Shen.</span> <span style="color:#932C2C">In Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience, pp. 50-57. Reston, VA: American Society of Civil Engineers, 2019.</span> <span style="color:#7030A0"> (EI)</span>
+    
     
     design:
       columns: '1'
