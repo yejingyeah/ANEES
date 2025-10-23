@@ -92,7 +92,7 @@ sections:
         <span style="font-weight:normal;color:black">Yang, F., Zeng, X., Xia, Q., Yang, L., Cai, H., & <strong>Cheng, C <sup>&#42;</sup></strong>. (2025).</span> <span style="color:#932C2C">Materials, 18(7), 168. </span> <span style="color:#7030A0">（SCI 三区）</span>
 
 
-       **2024**
+        **2024**
     
         **<a href="https://www.sciencedirect.com/science/article/pii/S2214509524001463?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Cooling-Excited Infrared Thermography for Enhancing the Detection of Concrete Filled Steel Tube Interfacial Debonding at Concrete Hydration.</a>**  
         <span style="font-weight:normal;color:black">Cai H, <strong>Cheng C <sup>&#42;</sup></strong>, Na R, et al. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e02995. </span> <span style="color:#7030A0">（SCI 二区）</span>
@@ -111,7 +111,7 @@ sections:
         <span style="font-weight:normal;color:black">Tang, Y., Huang, B., Wang, S., Zhou, J., Xiang, Z., <strong>Sheng, C</strong>., ... & Ruan, L. (2024). </span> <span style="color:#932C2C">Automation in Construction, 162, 105383. </span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
 
 
-   **2023-2019**
+        **2023-2019**
          
         **<a href="https://kns.cnki.net/kcms2/article/abstract?v=X-VFCYicIZsjPfiHHxyQChpXvnJFKPcDBNaQ-ZM-GUMaxfLrNPD2Rq4ZBxHbIGHOQzin35yz3oI34B_PYjA-EJB538gzgOPvJ7nGsLNDjDzmY0fjCc8jRY15f5uImw-0gOcopur4MelBpzi_FVR5ZKTt7CLyQ37_8enJgOsAd-Q=&uniplatform=NZKPT" class="no-underline" style="color:#436CC8;font-weight:bold">基于线形识别的索力测量方法影响因素研究[J].</a>**  
         <span style="font-weight:normal;color:black">王邵锐, 王犇, <strong>程崇晟 <sup>&#42;</sup></strong>等.</span> <span style="color:#932C2C"> 中国公路学报, 2023, 36(2): 154-165.</span> <span style="color:#7030A0">(EI)</span>
