@@ -101,9 +101,8 @@ sections:
         <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Cheng, X., Zhang, H., Cai, H., Zhou, J., Na, R., & Wu, B. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e03928. </span> <span style="color:#7030A0">（SCI 二区）</span>
 
         **<a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003483755-286/investigation-effect-surface-condition-variation-infrared-imaging-concrete-delamination-cheng-chen-cai-wang-wang-cheng" class="no-underline" style="color:#436CC8;font-weight:bold"> Investigation of the effect of surface condition variation on infrared imaging of concrete delamination.</a>**  
-        <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Chen, D., Cai, H., Wang, S., Wang, R., & Cheng, X. (2024).</span> <span style="color:#932C2C">In Bridge Maintenance, Safety, Management, Digitalization and Sustainability (pp. 2409-2416). CRC Press. </span> <span style="color:#7030A0">（EI）
-</span>
-
+        <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Chen, D., Cai, H., Wang, S., Wang, R., & Cheng, X. (2024).</span> <span style="color:#932C2C">In Bridge Maintenance, Safety, Management, Digitalization and Sustainability (pp. 2409-2416). CRC Press.<span style="color:#7030A0">（EI）</span>
+    
         **<a href="https://www.mdpi.com/2075-5309/15/1/10" class="no-underline" style="color:#436CC8;font-weight:bold">Revealing the Impact of Depth and Surface Property Variations on Infrared Detection of Delamination in Concrete Structures Under Natural Environmental Conditions.</a>**  
         <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Chen, D., Shao, S., Na, R., Cai, H., Zhou, H., & Wu, B. (2024).</span> <span style="color:#932C2C">Buildings, 15(1), 10.</span> <span style="color:#7030A0">（SCI 三区）</span>
 
