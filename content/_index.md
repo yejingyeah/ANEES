@@ -83,13 +83,13 @@ sections:
         <span style="font-weight:normal;color:black"> Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025). </span> <span style="color:#932C2C">  Automation in Construction, 170, 105940.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
 
         **<a href="https://www.mdpi.com/2075-5309/15/3/465" class="no-underline" style="color:#436CC8;font-weight:bold"> Experimental Investigation of Infrared Detection of Debonding in Concrete-Filled Steel Tubes via Cooling-Based Excitation.</a>**  
-        <span style="font-weight:normal;color:black">Cai, H., &  <strong>Cheng, C <sup>&#42;</sup></strong>. (2025). </span> <span style="color:#932C2C"> Buildings, 15(3), 465.</span> <span style="color:#7030A0">（SCI 三区）</span>
+        <span style="font-weight:normal;color:black">Cai, H., &<strong>Cheng, C <sup>&#42;</sup></strong>. (2025). </span> <span style="color:#932C2C"> Buildings, 15(3), 465.</span> <span style="color:#7030A0">（SCI 三区）</span>
       
         **<a href="https://www.sciencedirect.com/science/article/pii/S2214509525003006?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Toward Practical Guidelines for Infrared Thermography of Concrete Bridge Decks: A Preliminary Investigation Across US Climate Zones.</a>**  
         <span style="font-weight:normal;color:black">Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025).</span> <span style="color:#932C2C"> Case Studies in Construction Materials, e04502.</span> <span style="color:#7030A0">（SCI 二区）</span>
     
         **<a href="https://pubmed.ncbi.nlm.nih.gov/40271921/" class="no-underline" style="color:#436CC8;font-weight:bold">Early Detection and Analysis of Cavity Defects in Concrete Columns Based on Infrared Thermography and Finite Element Analysis.</a>**  
-        <span style="font-weight:normal;color:black">Yang, F., Zeng, X., Xia, Q., Yang, L., Cai, H., & <strong>Cheng, C <sup>&#42</sup></strong>. (2025).</span> <span style="color:#932C2C">Materials, 18(7), 168. </span> <span style="color:#7030A0">（SCI 三区）</span>
+        <span style="font-weight:normal;color:black">Yang, F., Zeng, X., Xia, Q., Yang, L., Cai, H., & <strong>Cheng, C <sup>&#42;</sup></strong>. (2025).</span> <span style="color:#932C2C">Materials, 18(7), 168. </span> <span style="color:#7030A0">（SCI 三区）</span>
 
 
        **2024**
