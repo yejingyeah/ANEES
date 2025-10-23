@@ -57,7 +57,7 @@ sections:
         结构服役状态识测与分析方向 + 无人机高效化  
         
         欢迎对计算机图像、病害检测、无人机巡检、智能建造等方面感兴趣的同学积极联系。鼓励有计算机编程基础或对此感兴趣的同学积极联系！  
-        联系方式：[ccheng@cqjtu.edu.cn](mailto:ccheng@cqjtu.edu.cn)😃
+        联系方式：<span style="color:black;text-decoration:underline;">ccheng@cqjtu.edu.cn</span>😃
       
       design:
         columns: '1'
