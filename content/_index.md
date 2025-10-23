@@ -70,25 +70,25 @@ sections:
       text: |
         **2025**
     
-        **<a href="https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub" style="color:#436CC8;font-weight:bold">Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.</a>**  
+        **<a href="https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.</a>**  
         <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>, J. Yu, Z. Xiang, S. Wang, H. Cai, J. Zhou, H.</span> <span style="color:#932C2C">Automation in Construction, 175: 106227.</span> <span style="color:#7030A0">（SCI 一区 TOP 期刊）</span>
     
-        **<a href="https://www.sciencedirect.com/science/article/pii/S2214509525007314?via%3Dihub" style="color:#436CC8;font-weight:bold">Quantitative Infrared Detection Methods for Debonding in Concrete-Filled Steel Tubes During the Hydration Heat Phase.</a>**  
+        **<a href="https://www.sciencedirect.com/science/article/pii/S2214509525007314?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Quantitative Infrared Detection Methods for Debonding in Concrete-Filled Steel Tubes During the Hydration Heat Phase.</a>**  
         <span style="font-weight:normal;color:black">Cai, H., <strong>Cheng, C *</strong>, Zhang, H., & Zhou, J. (2025).</span> <span style="color:#932C2C"> Case Studies in Construction Materials, e04933.</span> <span style="color:#7030A0"> （SCI 二区）</span>
     
-        **<a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431124024116?via%3Dihub" style="color:#436CC8;font-weight:bold">Numerical and experimental study on the evolution of thermal contrast for infrared detection of debonding in concrete filled steel tubular structure.</a>**  
+        **<a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431124024116?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Numerical and experimental study on the evolution of thermal contrast for infrared detection of debonding in concrete filled steel tubular structure.</a>**  
         <span style="font-weight:normal;color:black">Cai, H., <strong>Cheng, C *</strong>, Wang, L., Zhang, H., Zhou, J., Na, R., & Wu, B. (2025).</span> <span style="color:#932C2C"> Applied Thermal Engineering, 124743.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
     
-        **<a href="https://www.sciencedirect.com/science/article/abs/pii/S0926580524006769?via%3Dihub" style="color:#436CC8;font-weight:bold"> Delamination detection in concrete decks using numerical simulation and UAV-based infrared thermography with deep learning.</a>**  
+        **<a href="https://www.sciencedirect.com/science/article/abs/pii/S0926580524006769?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold"> Delamination detection in concrete decks using numerical simulation and UAV-based infrared thermography with deep learning.</a>**  
         <span style="font-weight:normal;color:black"> Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025). </span> <span style="color:#932C2C">  Automation in Construction, 170, 105940.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
 
-        **<a href="https://www.mdpi.com/2075-5309/15/3/465" style="color:#436CC8;font-weight:bold"> Experimental Investigation of Infrared Detection of Debonding in Concrete-Filled Steel Tubes via Cooling-Based Excitation.</a>**  
+        **<a href="https://www.mdpi.com/2075-5309/15/3/465" class="no-underline" style="color:#436CC8;font-weight:bold"> Experimental Investigation of Infrared Detection of Debonding in Concrete-Filled Steel Tubes via Cooling-Based Excitation.</a>**  
         <span style="font-weight:normal;color:black">Cai, H., &  <strong>Cheng, C *</strong>. (2025). </span> <span style="color:#932C2C"> Buildings, 15(3), 465.</span> <span style="color:#7030A0">（SCI 三区）</span>
       
-        **<a href="https://www.sciencedirect.com/science/article/pii/S2214509525003006?via%3Dihub" style="color:#436CC8;font-weight:bold">Toward Practical Guidelines for Infrared Thermography of Concrete Bridge Decks: A Preliminary Investigation Across US Climate Zones.</a>**  
+        **<a href="https://www.sciencedirect.com/science/article/pii/S2214509525003006?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Toward Practical Guidelines for Infrared Thermography of Concrete Bridge Decks: A Preliminary Investigation Across US Climate Zones.</a>**  
         <span style="font-weight:normal;color:black">Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025).</span> <span style="color:#932C2C"> Case Studies in Construction Materials, e04502.</span> <span style="color:#7030A0">（SCI 二区）</span>
     
-        **<a href="https://pubmed.ncbi.nlm.nih.gov/40271921/" style="color:#436CC8;font-weight:bold">Early Detection and Analysis of Cavity Defects in Concrete Columns Based on Infrared Thermography and Finite Element Analysis.</a>**  
+        **<a href="https://pubmed.ncbi.nlm.nih.gov/40271921/" class="no-underline" style="color:#436CC8;font-weight:bold">Early Detection and Analysis of Cavity Defects in Concrete Columns Based on Infrared Thermography and Finite Element Analysis.</a>**  
         <span style="font-weight:normal;color:black">Yang, F., Zeng, X., Xia, Q., Yang, L., Cai, H., & <strong>Cheng, C *</strong>. (2025).</span> <span style="color:#932C2C">Materials, 18(7), 168. </span> <span style="color:#7030A0">（SCI 三区）</span>
     
     design:
