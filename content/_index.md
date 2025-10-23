@@ -71,31 +71,31 @@ sections:
         **2025**
     
         **<a href="https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.</a>**  
-        <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>, J. Yu, Z. Xiang, S. Wang, H. Cai, J. Zhou, H.</span> <span style="color:#932C2C">Automation in Construction, 175: 106227.</span> <span style="color:#7030A0">（ SCI 一区 TOP 期刊 ）</span>
+        <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>, J. Yu, Z. Xiang, S. Wang, H. Cai, J. Zhou, H.</span> <span style="color:#932C2C">Automation in Construction, 175: 106227.</span> <span style="color:#7030A0">（SCI 一区 TOP 期刊）</span>
     
         **<a href="https://www.sciencedirect.com/science/article/pii/S2214509525007314?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Quantitative Infrared Detection Methods for Debonding in Concrete-Filled Steel Tubes During the Hydration Heat Phase.</a>**  
-        <span style="font-weight:normal;color:black">Cai, H., <strong>Cheng, C<sup>∗</sup></strong>, Zhang, H., & Zhou, J. (2025).</span> <span style="color:#932C2C"> Case Studies in Construction Materials, e04933.</span> <span style="color:#7030A0"> （ SCI 二区 ）</span>
+        <span style="font-weight:normal;color:black">Cai, H., <strong>Cheng, C<sup>&#42;</sup></strong>, Zhang, H., & Zhou, J. (2025).</span> <span style="color:#932C2C"> Case Studies in Construction Materials, e04933.</span> <span style="color:#7030A0"> （SCI 二区）</span>
     
         **<a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431124024116?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Numerical and experimental study on the evolution of thermal contrast for infrared detection of debonding in concrete filled steel tubular structure.</a>**  
-        <span style="font-weight:normal;color:black">Cai, H., <strong>Cheng, C <sup>∗</sup></strong>, Wang, L., Zhang, H., Zhou, J., Na, R., & Wu, B. (2025).</span> <span style="color:#932C2C"> Applied Thermal Engineering, 124743.</span> <span style="color:#7030A0">（ SCI 一区 TOP期刊 ）</span>
+        <span style="font-weight:normal;color:black">Cai, H., <strong>Cheng, C <sup>&#42;</sup></strong>, Wang, L., Zhang, H., Zhou, J., Na, R., & Wu, B. (2025).</span> <span style="color:#932C2C"> Applied Thermal Engineering, 124743.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
     
         **<a href="https://www.sciencedirect.com/science/article/abs/pii/S0926580524006769?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold"> Delamination detection in concrete decks using numerical simulation and UAV-based infrared thermography with deep learning.</a>**  
-        <span style="font-weight:normal;color:black"> Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025). </span> <span style="color:#932C2C">  Automation in Construction, 170, 105940.</span> <span style="color:#7030A0">（ SCI 一区 TOP期刊 ）</span>
+        <span style="font-weight:normal;color:black"> Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025). </span> <span style="color:#932C2C">  Automation in Construction, 170, 105940.</span> <span style="color:#7030A0">（SCI 一区 TOP期刊）</span>
 
         **<a href="https://www.mdpi.com/2075-5309/15/3/465" class="no-underline" style="color:#436CC8;font-weight:bold"> Experimental Investigation of Infrared Detection of Debonding in Concrete-Filled Steel Tubes via Cooling-Based Excitation.</a>**  
-        <span style="font-weight:normal;color:black">Cai, H., &  <strong>Cheng, C <sup>∗</sup></strong>. (2025). </span> <span style="color:#932C2C"> Buildings, 15(3), 465.</span> <span style="color:#7030A0">（ SCI 三区 ）</span>
+        <span style="font-weight:normal;color:black">Cai, H., &  <strong>Cheng, C <sup>&#42;</sup></strong>. (2025). </span> <span style="color:#932C2C"> Buildings, 15(3), 465.</span> <span style="color:#7030A0">（SCI 三区）</span>
       
         **<a href="https://www.sciencedirect.com/science/article/pii/S2214509525003006?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Toward Practical Guidelines for Infrared Thermography of Concrete Bridge Decks: A Preliminary Investigation Across US Climate Zones.</a>**  
-        <span style="font-weight:normal;color:black">Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025).</span> <span style="color:#932C2C"> Case Studies in Construction Materials, e04502.</span> <span style="color:#7030A0">（ SCI 二区 ）</span>
+        <span style="font-weight:normal;color:black">Aljagoub, D., Na, R., & <strong>Cheng, C</strong>. (2025).</span> <span style="color:#932C2C"> Case Studies in Construction Materials, e04502.</span> <span style="color:#7030A0">（SCI 二区）</span>
     
         **<a href="https://pubmed.ncbi.nlm.nih.gov/40271921/" class="no-underline" style="color:#436CC8;font-weight:bold">Early Detection and Analysis of Cavity Defects in Concrete Columns Based on Infrared Thermography and Finite Element Analysis.</a>**  
-        <span style="font-weight:normal;color:black">Yang, F., Zeng, X., Xia, Q., Yang, L., Cai, H., & <strong>Cheng, C <sup>∗</sup></strong>. (2025).</span> <span style="color:#932C2C">Materials, 18(7), 168. </span> <span style="color:#7030A0">（ SCI 三区 ）</span>
+        <span style="font-weight:normal;color:black">Yang, F., Zeng, X., Xia, Q., Yang, L., Cai, H., & <strong>Cheng, C <sup>&#42</sup></strong>. (2025).</span> <span style="color:#932C2C">Materials, 18(7), 168. </span> <span style="color:#7030A0">（SCI 三区）</span>
 
 
        **2024**
     
         **<a href="https://www.sciencedirect.com/science/article/pii/S2214509524001463?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Cooling-Excited Infrared Thermography for Enhancing the Detection of Concrete Filled Steel Tube Interfacial Debonding at Concrete Hydration.</a>**  
-        <span style="font-weight:normal;color:black">Cai H, <strong>Cheng C <sup>∗</sup></strong>, Na R, et al. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e02995. </span> <span style="color:#7030A0">（SCI 二区）</span>
+        <span style="font-weight:normal;color:black">Cai H, <strong>Cheng C <sup>&#42;</sup></strong>, Na R, et al. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e02995. </span> <span style="color:#7030A0">（SCI 二区）</span>
 
         **<a href="https://www.sciencedirect.com/science/article/pii/S2214509524010799?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Experimental Study on Infrared Detection of Debonding in Concrete-filled Steel Tubular Structure under Acceleratory Period of Hydration Heat Action.</a>**  
         <span style="font-weight:normal;color:black"><strong>Cheng, C</strong>., Cheng, X., Zhang, H., Cai, H., Zhou, J., Na, R., & Wu, B. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e03928. </span> <span style="color:#7030A0">（SCI 二区）</span>
@@ -114,7 +114,7 @@ sections:
    **2023-2019**
          
         **<a href="https://kns.cnki.net/kcms2/article/abstract?v=X-VFCYicIZsjPfiHHxyQChpXvnJFKPcDBNaQ-ZM-GUMaxfLrNPD2Rq4ZBxHbIGHOQzin35yz3oI34B_PYjA-EJB538gzgOPvJ7nGsLNDjDzmY0fjCc8jRY15f5uImw-0gOcopur4MelBpzi_FVR5ZKTt7CLyQ37_8enJgOsAd-Q=&uniplatform=NZKPT" class="no-underline" style="color:#436CC8;font-weight:bold">基于线形识别的索力测量方法影响因素研究[J].</a>**  
-        <span style="font-weight:normal;color:black">王邵锐, 王犇, <strong>程崇晟 <sup>∗</sup></strong>等.</span> <span style="color:#932C2C"> 中国公路学报, 2023, 36(2): 154-165.</span> <span style="color:#7030A0">(EI)</span>
+        <span style="font-weight:normal;color:black">王邵锐, 王犇, <strong>程崇晟 <sup>&#42;</sup></strong>等.</span> <span style="color:#932C2C"> 中国公路学报, 2023, 36(2): 154-165.</span> <span style="color:#7030A0">(EI)</span>
 
         **<a href="https://www.mdpi.com/2412-3811/7/12/163" class="no-underline" style="color:#436CC8;font-weight:bold">Performance Evaluation of Uncooled UAV Infrared Camera in Detecting Concrete Delamination[J].</a>**  
         <span style="font-weight:normal;color:black">Aljagoub D, Na R, <strong>Cheng C</strong>, et al.</span> <span style="color:#932C2C"> Infrastructures, 2022, 7(12): 163.</span> <span style="color:#7030A0">（ESCI）</span>
