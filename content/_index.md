@@ -136,10 +136,28 @@ sections:
         **<a href="https://www.semanticscholar.org/paper/CNN-Based-Deep-Architecture-for-Reinforced-Concrete-Cheng-Shang/3bd8d91de5cc8108e7e7bc1465e4b414159ffe91" class="no-underline" style="color:#436CC8;font-weight:bold">CNN-based deep architecture for reinforced concrete delamination segmentation through thermography.</a>**  
         <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, Zhexiong Shang, and Zhigang Shen.</span> <span style="color:#932C2C">In Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience, pp. 50-57. Reston, VA: American Society of Civil Engineers, 2019.</span> <span style="color:#7030A0"> (EI)</span>
     
+    design:
+      columns: '1'
+      container: 'fluid'
+
+  - block: markdown
+    content:
+      title: 'Projects'
+      subtitle: ''
+      text: |
+        1.国自然基金面上项目（PI）：钢管混凝土拱桥脱空的红外热成像检测机理与诊断方法研究（2025-2028，在研）
+        2.国家重点研发计划项目子任务（PI）：基于红外成像原理的钢管混凝土脱空定量检测关键技术（2023-2026，在研）
+        3.国自然基金青年项目（PI）：混凝土桥面结构次表面脱层缺陷的多光谱成像诊断研究（2022-2024，结题）
+        4.中国博士后科学基金特别资助（PI）：基于多光谱融合成像与机器视觉的桥梁结构病害诊断研究（2024-2026，在研）
+        5.重庆市自科基金面上项目（PI）：混凝土结构脱层病害的红外成像特征自生成理论与检测自动化（2022-2025，在研）
+        6.重庆市博士后特别资助（PI）：基于深度学习的混凝土结构脱空病害红外探测与绘制研究（2022-2024，结题）
+        7.重庆市留创项目（PI）：超低空数采下桥梁结构浅表层无损检测的多光谱融合成像研究（2021-2023，结题）
+        8.重庆建工∗∗公司（CO-PI）：基于红外成像的房建混凝土结构隐蔽病害检测可视化成套技术研发（2024-2026，在研）
     
     design:
       columns: '1'
       container: 'fluid'
+
     
   #- block: collection
     #id: papers
