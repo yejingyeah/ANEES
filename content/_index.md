@@ -167,7 +167,7 @@ sections:
 
   - block: markdown
     content:
-      title: 'Student Awards
+      title: 'Student Awards'
       subtitle: ''
       text: |
         **2025**
