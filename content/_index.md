@@ -165,6 +165,27 @@ sections:
       columns: '1'
       container: 'fluid'
 
+  - block: markdown
+    content:
+      title: 'Student Awards
+      subtitle: ''
+      text: |
+        **2025**
+        1.第十九届“挑战杯”全国大学生课外学术科技作品竞赛校内选拔赛三等奖1项
+
+        2.中国国际大学生创新大赛高教主赛道（研究生组）重庆交通大学校级二等奖1项、三等奖1项
+
+        3.第十九届中国研究生电子设计竞赛技术类竞赛初赛团队三等奖1项
+
+        4.重庆交通大学研究生科研创新项目（市级立项）2项
+    
+        **2024**
+        1.第十九届中国研究生电子设计竞赛技术类竞赛初赛团队二等奖2项
+        2.重庆交通大学研究生科研创新项目（校级立项）1项
+    
+    design:
+      columns: '1'
+      container: 'fluid'
     
   #- block: collection
     #id: papers
