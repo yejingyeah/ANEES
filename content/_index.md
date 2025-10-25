@@ -35,6 +35,7 @@ sections:
       title: '📚 ANEES LAB'
       subtitle: ''
       text: |
+        <div id="anees-lab"></div>
         ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
         
         团队精神：人人为我，我为人人，精益求精，潇洒人间走一遭！
@@ -71,6 +72,7 @@ sections:
       title: 'Recent Papers'
       subtitle: ''
       text: |
+        <div id="papers"></div>
         **2025**
     
         **<a href="https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.</a>**  
@@ -138,6 +140,15 @@ sections:
 
         **<a href="https://www.semanticscholar.org/paper/CNN-Based-Deep-Architecture-for-Reinforced-Concrete-Cheng-Shang/3bd8d91de5cc8108e7e7bc1465e4b414159ffe91" class="no-underline" style="color:#436CC8;font-weight:bold">CNN-based deep architecture for reinforced concrete delamination segmentation through thermography.</a>**  
         <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, Zhexiong Shang, and Zhigang Shen.</span> <span style="color:#932C2C">In Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience, pp. 50-57. Reston, VA: American Society of Civil Engineers, 2019.</span> <span style="color:#7030A0"> (EI)</span>
+
+        **<a href="https://ascelibrary.org/doi/pdf/10.1061/9780784481295.073" class="no-underline" style="color:#436CC8;font-weight:bold">Time-Series Based Thermography on Concrete Block Void Detection.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, and Zhigang Shen.</span> <span style="color:#932C2C">In Construction Research Congress 2018, pp. 732-742.</span> <span style="color:#7030A0"> (EI)</span>
+
+        **<a href="https://ascelibrary.org/doi/pdf/10.1061/9780784481288.039" class="no-underline" style="color:#436CC8;font-weight:bold">Mechanism and Measurements of Fall Due to Loss-of-Balance for Construction Workers.</a>**  
+        <span style="font-weight:normal;color:black"><strong>Cheng C</strong>, and Zhigang Shen.</span> <span style="color:#932C2C">In Construction Research Congress 2018, pp. 400-411.</span> <span style="color:#7030A0"> (EI)</span>
+
+        **<a href="https://arxiv.org/pdf/1904.04986" class="no-underline" style="color:#436CC8;font-weight:bold">A Data Fusion Platform for Supporting Bridge Deck Condition Monitoring by Merging Aerial and Ground Inspection Imagery.</a>**  
+        <span style="font-weight:normal;color:black">Shang, Zhexiong, <strong>Cheng C</strong>, and Zhigang Shen.</span> <span style="color:#932C2C">In Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience, pp. 299-305. Reston, VA: American Society of Civil Engineers, 2019.</span> <span style="color:#7030A0"> (EI)</span>
     
     design:
       columns: '1'
@@ -150,6 +161,7 @@ sections:
       title: 'Projects'
       subtitle: ''
       text: |
+        <div id="projects"></div>
         1.国自然基金面上项目（PI）：钢管混凝土拱桥脱空的红外热成像检测机理与诊断方法研究（2025-2028，在研）
 
         2.国家重点研发计划项目子任务（PI）：基于红外成像原理的钢管混凝土脱空定量检测关键技术（2023-2026，在研）
@@ -177,6 +189,7 @@ sections:
       title: 'Student Awards'
       subtitle: ''
       text: |
+        <div id="awards"></div>
         **2025**
 
         1.第十九届“挑战杯”全国大学生课外学术科技作品竞赛校内选拔赛三等奖1项
