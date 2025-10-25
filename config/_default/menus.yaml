@@ -8,16 +8,16 @@ main:
     url: /
     weight: 10
   - name: Team
-    url: features-text-only/
+    url: /#anees-lab
     weight: 11
   - name: Papers
-    url: /#Papers
+    url: /#papers
     weight: 12
   - name: Projects
-    url: /#Projects
+    url: /#projects
     weight: 13
   - name: Awards
-    url:  /#Awards
+    url:  /#awards
     weight: 20
   #- name: Projects
     #url: projects/
