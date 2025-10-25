@@ -29,11 +29,12 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdow
+  - block: markdown
     content:
       title: '📚 ANEES LAB'
       subtitle: ''
       text: |
+        <div id="anees-lab"></div>
         ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
         
         团队精神：人人为我，我为人人，精益求精，潇洒人间走一遭！
@@ -70,7 +71,7 @@ sections:
       subtitle: ''
       text: |
         <div id="papers"></div>
-        
+
         **2025**
     
         **<a href="https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.</a>**  
@@ -260,12 +261,12 @@ sections:
       #offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       #order: desc
-    design:
+    #design:
       # Choose a layout view
       #view: card
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      #spacing:
+        #padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
