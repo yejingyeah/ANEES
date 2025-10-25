@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '5rem'
 
 sections:
   - block: resume-biography-3
@@ -93,7 +93,7 @@ sections:
 
 
         **2024**
-    
+
         **<a href="https://www.sciencedirect.com/science/article/pii/S2214509524001463?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Cooling-Excited Infrared Thermography for Enhancing the Detection of Concrete Filled Steel Tube Interfacial Debonding at Concrete Hydration.</a>**  
         <span style="font-weight:normal;color:black">Cai H, <strong>Cheng C <sup>&#42;</sup></strong>, Na R, et al. (2024).</span> <span style="color:#932C2C">Case Studies in Construction Materials, e02995. </span> <span style="color:#7030A0">（SCI 二区）</span>
 
@@ -179,10 +179,12 @@ sections:
         3.第十九届中国研究生电子设计竞赛技术类竞赛初赛团队三等奖1项
 
         4.重庆交通大学研究生科研创新项目（市级立项）2项
+
     
         **2024**
 
         1.第十九届中国研究生电子设计竞赛技术类竞赛初赛团队二等奖2项
+
         2.重庆交通大学研究生科研创新项目（校级立项）1项
     
     design:
