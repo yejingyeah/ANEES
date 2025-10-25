@@ -62,6 +62,7 @@ sections:
       design:
         columns: '1'
         container: 'fluid'
+        id: anees-lab 
     
   - block: markdown
     content:
@@ -139,6 +140,7 @@ sections:
     design:
       columns: '1'
       container: 'fluid'
+      id: Papers 
 
   - block: markdown
     content:
@@ -164,6 +166,7 @@ sections:
     design:
       columns: '1'
       container: 'fluid'
+      id: Projects 
 
   - block: markdown
     content:
@@ -190,6 +193,7 @@ sections:
     design:
       columns: '1'
       container: 'fluid'
+      id: Student-Awards
     
   #- block: collection
     #id: papers
