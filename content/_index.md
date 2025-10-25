@@ -33,9 +33,12 @@ sections:
     anchor: "anees-lab"
     content:
       <div id="anees-lab"></div>
-      title: '📚 ANEES LAB'
+      title: ''
       subtitle: ''
       text: |
+        <div id="anees-lab"></div>
+        <h2 class="text-3xl font-bold mb-2">📚 ANEES LAB</h2>
+        <p class="text-lg text-gray-600 mb-6"></p>   <!-- 副标题留空 -->
         ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
         
         团队精神：人人为我，我为人人，精益求精，潇洒人间走一遭！
@@ -199,7 +202,6 @@ sections:
         3.第十九届中国研究生电子设计竞赛技术类竞赛初赛团队三等奖1项
 
         4.重庆交通大学研究生科研创新项目（市级立项）2项
-
     
         **2024**
 
