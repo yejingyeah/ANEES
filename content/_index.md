@@ -140,7 +140,7 @@ sections:
     design:
       columns: '1'
       container: 'fluid'
-      id: Papers 
+      id: papers 
 
   - block: markdown
     content:
@@ -166,7 +166,7 @@ sections:
     design:
       columns: '1'
       container: 'fluid'
-      id: Projects 
+      id: projects 
 
   - block: markdown
     content:
@@ -193,7 +193,7 @@ sections:
     design:
       columns: '1'
       container: 'fluid'
-      id: Student-Awards
+      id: awards
     
   #- block: collection
     #id: papers
