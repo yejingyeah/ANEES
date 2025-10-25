@@ -30,6 +30,7 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    anchor: "anees-lab"
     content:
       title: '📚 ANEES LAB'
       subtitle: ''
@@ -65,6 +66,7 @@ sections:
         id: anees-lab 
     
   - block: markdown
+    anchor: "papers"
     content:
       title: 'Recent Papers'
       subtitle: ''
@@ -143,6 +145,7 @@ sections:
       id: papers 
 
   - block: markdown
+    anchor: "projects"
     content:
       title: 'Projects'
       subtitle: ''
@@ -169,6 +172,7 @@ sections:
       id: projects 
 
   - block: markdown
+    anchor: "awards"
     content:
       title: 'Student Awards'
       subtitle: ''
