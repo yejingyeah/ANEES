@@ -29,8 +29,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    anchor: "anees-lab"
+  - block: markdow
     content:
       title: '📚 ANEES LAB'
       subtitle: ''
@@ -66,12 +65,12 @@ sections:
         id: anees-lab 
     
   - block: markdown
-    anchor: "papers"
     content:
       title: 'Recent Papers'
       subtitle: ''
       text: |
         <div id="papers"></div>
+        
         **2025**
     
         **<a href="https://www.sciencedirect.com/science/article/pii/S0926580525002675?via%3Dihub" class="no-underline" style="color:#436CC8;font-weight:bold">Real-time in-tube concrete level tracking during concrete-filled steel tubular arch bridge construction using infrared thermography and computer vision.</a>**  
@@ -155,7 +154,6 @@ sections:
       id: papers 
 
   - block: markdown
-    anchor: "projects"
     content:
       title: 'Projects'
       subtitle: ''
@@ -183,7 +181,6 @@ sections:
       id: projects 
 
   - block: markdown
-    anchor: "awards"
     content:
       title: 'Student Awards'
       subtitle: ''
