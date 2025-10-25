@@ -1,0 +1,5 @@
+<script>
+  const nav = document.querySelector('nav[aria-label="Main navigation"]');
+  const offset = (nav?.clientHeight || 80) + 24;   // 导航高 + 额外 24 px
+  document.documentElement.style.scrollPaddingTop = offset + 'px';
+</script>
