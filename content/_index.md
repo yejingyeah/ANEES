@@ -63,7 +63,9 @@ sections:
       design:
         columns: '1'
         container: 'fluid'
-        id: anees-lab 
+        id: anees-lab
+        css_style: |
+          scroll-padding-top: 4rem;
     
   - block: markdown
     content:
