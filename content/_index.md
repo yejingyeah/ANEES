@@ -32,7 +32,6 @@ sections:
   - block: markdown
     anchor: "anees-lab"
     content:
-      <div id="anees-lab"></div>
       title: ''
       subtitle: ''
       text: |
