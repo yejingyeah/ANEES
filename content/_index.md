@@ -35,7 +35,6 @@ sections:
       title: '📚 ANEES LAB'
       subtitle: ''
       text: |
-        <div id="anees-lab" class="-mt-12 mb-2"></div>
         ANEES-LAB 课题小组秉承“人无我有，人有我优，无限进步”的团队 Slogan。
         
         团队精神：人人为我，我为人人，精益求精，潇洒人间走一遭！
