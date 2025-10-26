@@ -19,5 +19,5 @@ html {
 }
 /* 全局阅读宽度：由默认 65ch → 80ch（约 1152 px） */
 .prose {
-  max-width: 80ch !important;
+  max-width: 120ch !important;
 }
