@@ -153,7 +153,8 @@ sections:
         <span style="font-weight:normal;color:black">Shang, Zhexiong, <strong>Cheng C</strong>, and Zhigang Shen.</span> <span style="color:#932C2C">In Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience, pp. 299-305. Reston, VA: American Society of Civil Engineers, 2019.</span> <span style="color:#7030A0"> (EI)</span>
     
     design:
-      css_class: 'max-w-none'
+      css_class: 'text-xs	'
+    
       columns: '1'
       container: 'fluid'
       id: papers 
