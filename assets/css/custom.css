@@ -1,9 +1,6 @@
-/* custom.css */
-@media (min-width: 640px) {
-  html { font-size: 14px; }
-}
-@media (min-width: 1024px) {
-  html { font-size: 13px; }
+/* 基准字号缩小一档 */
+html {
+  font-size: 13px;        /* 或 0.875rem */
 }
 
 /* 给所有锚点（带 id 的元素）添加顶部偏移 */
